@@ -1,7 +1,7 @@
 # Lab_4
 
-#first step 
+#first step:
 gcc main.c sum_array.s -o program
 
-#second step
+#second step:
 ./program data.txt
